@@ -1,0 +1,5 @@
+C:\Users\Philip\Desktop\Schule\4.Jahr\Prog\WPF\CashRegister\CashRegister.UICore\obj\Debug\net5.0-windows\CashRegister.UICore.csprojAssemblyReference.cache
+C:\Users\Philip\Desktop\Schule\4.Jahr\Prog\WPF\CashRegister\CashRegister.UICore\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Philip\Desktop\Schule\4.Jahr\Prog\WPF\CashRegister\CashRegister.UICore\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Philip\Desktop\Schule\4.Jahr\Prog\WPF\CashRegister\CashRegister.UICore\obj\Debug\net5.0-windows\CashRegister.UICore_MarkupCompile.cache
+C:\Users\Philip\Desktop\Schule\4.Jahr\Prog\WPF\CashRegister\CashRegister.UICore\obj\Debug\net5.0-windows\CashRegister.UICore_MarkupCompile.lref

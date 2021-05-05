@@ -1,0 +1,12 @@
+C:\Users\Philip\Desktop\Schule\4.Jahr\Prog\WPF\CashRegister\CashRegister.Shared\bin\Debug\net5.0\CashRegister.Shared.deps.json
+C:\Users\Philip\Desktop\Schule\4.Jahr\Prog\WPF\CashRegister\CashRegister.Shared\bin\Debug\net5.0\CashRegister.Shared.dll
+C:\Users\Philip\Desktop\Schule\4.Jahr\Prog\WPF\CashRegister\CashRegister.Shared\bin\Debug\net5.0\ref\CashRegister.Shared.dll
+C:\Users\Philip\Desktop\Schule\4.Jahr\Prog\WPF\CashRegister\CashRegister.Shared\bin\Debug\net5.0\CashRegister.Shared.pdb
+C:\Users\Philip\Desktop\Schule\4.Jahr\Prog\WPF\CashRegister\CashRegister.Shared\obj\Debug\net5.0\CashRegister.Shared.csprojAssemblyReference.cache
+C:\Users\Philip\Desktop\Schule\4.Jahr\Prog\WPF\CashRegister\CashRegister.Shared\obj\Debug\net5.0\CashRegister.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philip\Desktop\Schule\4.Jahr\Prog\WPF\CashRegister\CashRegister.Shared\obj\Debug\net5.0\CashRegister.Shared.AssemblyInfoInputs.cache
+C:\Users\Philip\Desktop\Schule\4.Jahr\Prog\WPF\CashRegister\CashRegister.Shared\obj\Debug\net5.0\CashRegister.Shared.AssemblyInfo.cs
+C:\Users\Philip\Desktop\Schule\4.Jahr\Prog\WPF\CashRegister\CashRegister.Shared\obj\Debug\net5.0\CashRegister.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Philip\Desktop\Schule\4.Jahr\Prog\WPF\CashRegister\CashRegister.Shared\obj\Debug\net5.0\CashRegister.Shared.dll
+C:\Users\Philip\Desktop\Schule\4.Jahr\Prog\WPF\CashRegister\CashRegister.Shared\obj\Debug\net5.0\ref\CashRegister.Shared.dll
+C:\Users\Philip\Desktop\Schule\4.Jahr\Prog\WPF\CashRegister\CashRegister.Shared\obj\Debug\net5.0\CashRegister.Shared.pdb
